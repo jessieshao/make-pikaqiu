@@ -8,14 +8,12 @@
     }
     .code-wrapper{
         flex: 1;
-        height: 50%;
+        height: 40%;
         padding: 10px;
-        border: 1px solid red;
     }
     .preview-wrapper{
         flex: 1;
-        height: 50%;
-        border: 1px solid green;
+        height: 60%;
     }
     #code{
         height: 100%;
